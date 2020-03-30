@@ -1,2 +1,4 @@
 # MyPython
-learn python
+##learn python
++basic grammar
+#keep going!
