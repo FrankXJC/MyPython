@@ -1,4 +1,5 @@
-# MyPython
-##learn python
-+basic grammar
-#keep going!
+# *MyPython*
+## *learn python*
+---
+### basic grammar
+### keep going!
